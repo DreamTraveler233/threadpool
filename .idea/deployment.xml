@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" filePermissions="420" folderPermissions="493" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="Ubuntu (5c0c2981-2ebc-4332-9333-3ce9b95dcfb2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/szy/code/threadpool" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu_debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu_debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
